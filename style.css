@@ -1,0 +1,61 @@
+html, body {
+  height: 100%;
+  width: 100%;
+/*   font-size: */
+}
+
+* {
+  font-size: 180%;
+}
+
+.top {
+  border-bottom: black solid 2px;
+  height: 30%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.bottom {
+  border-top: black solid 2px;
+  height: 30%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.middle {
+/*   border-top: black solid 2px; */
+  height: 30%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.left {
+  border-right: black solid 2px;
+  height: 100%;
+  width: 28%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center {
+/*   border-left: black solid 2px; */
+  height: 100%;
+  width: 33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: ;
+}
+
+.right {
+  border-left: black solid 2px;
+  height: 100%;
+  width: 28%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
